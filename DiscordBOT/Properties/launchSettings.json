@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiscordBOT": {
+      "commandName": "Project",
+      "commandLineArgs": "-ver"
+    }
+  }
+}

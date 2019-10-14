@@ -1,0 +1,12 @@
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\DiscordBOT.deps.json
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\DiscordBOT.runtimeconfig.json
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\DiscordBOT.runtimeconfig.dev.json
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\DiscordBOT.dll
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\DiscordBOT.pdb
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.csprojAssemblyReference.cache
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.csproj.CoreCompileInputs.cache
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.AssemblyInfoInputs.cache
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.AssemblyInfo.cs
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.dll
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\obj\Debug\netcoreapp2.1\DiscordBOT.pdb
+C:\Users\Jet\source\repos\DiscordBOT\DiscordBOT\bin\Debug\netcoreapp2.1\SystemLang\alerts.json
